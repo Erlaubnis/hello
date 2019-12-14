@@ -10,7 +10,7 @@
  - Music
  - Fullstack
  - Apple Fanboy
- - 14 years old
+ - 15 years old
  - about 5 years of experience in Web Development
  - about 3 years of experience in Native iOS Development
  - Design fanatic
